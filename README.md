@@ -3,8 +3,9 @@ Um dia vai ser o nosso "pra sempre".
 
 <audio src="risada.mp3" autoplay loop></audio> 
 
-![Image](https://github.com/user-attachments/assets/c91a161d-12a2-4b1c-a293-d83dbe7361c3)
-![Image](https://github.com/user-attachments/assets/61e68000-066d-48f8-8507-d9ffe848e8a6)
-![Image](https://github.com/user-attachments/assets/5714d70e-8d50-4a27-bbac-61814e891458)
-![Image](https://github.com/user-attachments/assets/a13ad88c-ce26-4661-86ab-496aabf11480)
-![Image](https://github.com/user-attachments/assets/427ca5d8-8717-42dc-99cd-663c4384a871)
+![Image](https://github.com/user-attachments/assets/15df1800-f2ea-4da3-96e4-58e9cba983a6)
+![Image](https://github.com/user-attachments/assets/3eb92d4b-aecc-4838-8b4e-3ff5e1830f56)
+![Image](https://github.com/user-attachments/assets/0b8e9e57-8d88-4311-ac88-e6622ac07aa1)
+![Image](https://github.com/user-attachments/assets/c3c2be7e-a50b-4050-8b6d-b25113daadfa)
+![Image](https://github.com/user-attachments/assets/b61ca1ab-df94-4326-b36f-bf8094688dda)
+
